@@ -1,9 +1,9 @@
-#Projet Java : Bilguissou DIALLO
+# Projet Java : Bilguissou DIALLO
 
-#Description du projet:
+# Description du projet:
 Inspiré du jeu de société "echec", ceci est une implémentation en java utilisant la bibliothèque SWING.
 
-##Fonctionnalités principales :
+## Fonctionnalités principales :
 - Une interface interactive
 - possibilités de jouer à deux
 - trois affichages: acceuil, debut et fin
